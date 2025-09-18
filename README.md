@@ -28,3 +28,15 @@ This project is an **interactive Excel dashboard** created to visualize and anal
 - Total States   
 
 ## Project Structure
+Crops-Production-Dashboard/
+│
+├── Crops_Production_Dashboard.xlsx
+├── README.md
+
+
+## Author
+Pradhika Sree D S
+
+## License
+MIT License
+
